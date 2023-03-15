@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yash jha.
 - 👀 I’m interested in exploring the IT world.
-- 🌱 I’m currently Hustling.
+- 🌱 I’m a Full time Hustler.
 - 💞️ I’m looking to learn and explore data world.
 
 <!---
