@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @yash jha.
-- 👀 I’m interested in exploring the IT world.
-- 🌱 I’m a Full time Hustler.
-- 💞️ I’m looking to learn and explore data world.
+👋 Hi, I’m Yash Jha.
+
+👀 I’m passionate about exploring the vast landscape of Information Technology.
+
+🌱 I’m dedicated to continuous learning and growth, particularly in the realm of data analytics and data science.
+
+💞️ I’m eager to expand my knowledge and expertise in the data world, and I am always open to new learning opportunities and collaborations.
 
 <!---
 yash-jha-99/yash-jha-99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
