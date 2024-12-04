@@ -1,4 +1,4 @@
-👋 ##Hi, I’m Yash Jha!
+👋 Hi, I’m Yash Jha!
 
 🚀 Passionate Data Enthusiast: I thrive on exploring the ever-evolving world of Information Technology, with a keen focus on data analytics and data science. My mission is to harness the power of data to unlock actionable insights that drive business growth and fuel innovative product strategies.
 
